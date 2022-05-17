@@ -3,3 +3,5 @@
 Java包文件名为 classroom-manage-simple-1.0.0-RELEASE.jar，Java版本为11。
 
 启动命令为 java -jar classroom-manage-simple-1.0.0-RELEASE.jar
+
+HTML元素的click()最好只设置一次，所以同时只取消注释掉其中一种。
