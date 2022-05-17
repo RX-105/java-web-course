@@ -1,0 +1,5 @@
+为了方便使用后端服务器，我写了一个简单的SpringBoot项目，只提供了js里面用到的两个API，端口为8081。
+
+Java包文件名为 classroom-manage-simple-1.0.0-RELEASE.jar，Java版本为11。
+
+启动命令为 java -jar classroom-manage-simple-1.0.0-RELEASE.jar
